@@ -16,7 +16,7 @@ Step 1.
 Load faceRecoModel ,and  architecture of this model in utility file .
 
 Step 2.
-Load weights ,i have provided all weights which i downloaded directly facenet 
+Load weights ,i have provided all weights which i downloaded directly facenet OR u can directly load from 128bitvectormodel.h5
 
 step 3.
 generate Encodings ,input your images into this cnn architecture and store all your dataset images encoding in a list
